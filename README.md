@@ -1,5 +1,13 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Installation
+1.  Git clone this repository `https://github.com/Ruqoyah/google-api-test.git`
+2.  Change your directory `cd google-api-test`
+3.  Install all dependencies `npm install`
+4.  Create .env file which will be used to load environment variables see sample in `.env.example` file in the project
+5.  Start the app with `npm start`
+8.  Navigate to `localhost:3000` in your browser
+
 ## Available Scripts
 
 In the project directory, you can run:
